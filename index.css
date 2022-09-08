@@ -1,0 +1,87 @@
+@import url(https://fonts.google.com/specimen/Outfit) ;
+
+*{
+   box-sizing: border-box; 
+   margin: 0;
+   padding: 0;
+}
+
+body{
+background-color: hsl(217, 54%, 11%);
+display: grid;
+place-content: center;
+min-height: 100vh;
+font-family: "Outfit", sans-serif;
+
+} 
+
+.main{
+
+background-color: hsl(216, 50%, 16%);
+max-width: 400px;
+padding: 1rem;
+margin: 1rem;
+border-radius: 10px;
+
+
+}
+
+.main:hover{
+    opacity: 0.75;
+}
+
+.pallette{
+    border-bottom: 2px solid hsl(215, 32%, 27%);
+    display: grid;
+    gap: 1rem;
+
+}
+p{
+ color: hsl(215, 51%, 70%);
+ font-size:  18px;
+}
+h3,span{
+    color: white;
+    
+}
+
+
+.equillibrium{
+   width:100%;
+   border-radius: 5px;
+
+}
+
+.eth{
+    display:flex;
+    gap: 0.5rem;
+}
+.eth-container{
+display: flex;
+justify-content: space-between;
+}
+.creator-box{
+    display:flex;
+    gap: 1rem;
+    align-items: center;
+    margin: 1rem 0;
+}
+
+.creator-box img{
+    width: 40px; 
+    border: 2px solid white;
+    border-radius: 50%;
+    
+}
+
+.attribution{
+margin: auto;
+  color:hsl(178, 100%, 50%);
+ 
+}
+a {
+    color: white;
+}
+a:hover{
+ color: hsl(215, 32%, 27%)
+}
