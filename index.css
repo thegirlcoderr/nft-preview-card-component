@@ -82,7 +82,7 @@ cursor: pointer;
 .eth-container{
 display: flex;
 justify-content: space-between;
-margin-bottom: 5px;
+margin-bottom: 1rem;
 
 }
 .creator-box{
