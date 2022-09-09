@@ -30,8 +30,6 @@ Users should be able to:
 - Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/nft-preview-cardcomponent-using-css-flec-and-grid-6v403d-LnI)
 - Live Site URL: [Vercel](https://nft-preview-card-component-jade.vercel.app/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
