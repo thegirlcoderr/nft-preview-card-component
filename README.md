@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/nft-preview-cardcomponent-using-css-flec-and-grid-6v403d-LnI)
+- Live Site URL: [Vercel](https://nft-preview-card-component-jade.vercel.app/)
 
 ## My process
 
